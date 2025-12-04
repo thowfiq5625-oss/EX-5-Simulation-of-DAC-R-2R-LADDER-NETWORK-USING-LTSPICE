@@ -20,13 +20,13 @@
 ---
 
 ## CIRCUIT DIAGRAM
-<img width="1918" height="1077" alt="Screenshot 2025-11-22 174817" src="https://github.com/user-attachments/assets/e20f3dd1-7329-4180-983d-29eb3599e4fe" />
+![WhatsApp Image 2025-12-04 at 11 49 21_6f54ba83](https://github.com/user-attachments/assets/7c342af2-fb6e-4701-88a3-3186ca06b6d3)
 
 
 ---
 ## MODEL GRAPH
 <img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
-<img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
+![WhatsApp Image 2025-12-04 at 11 50 57_e46c8561](https://github.com/user-attachments/assets/9a2a4e29-4fc1-4372-9c8e-dbe1d9b5b876)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
